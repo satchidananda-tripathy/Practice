@@ -13,3 +13,4 @@ ram.printdetails()
 
 shyam = person('shyam',6.5,71)
 shyam.printdetails()
+print("Bye")
