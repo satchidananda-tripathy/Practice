@@ -1,0 +1,1 @@
+k=[print(i) for i in 'hello' if i not in 'aeiou']
